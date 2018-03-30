@@ -2,6 +2,7 @@
 
 
 #Opensource tools for data cleansing
+
   #https://www.dremio.com/
     -easy to install and learn
     -can ingest from many data sources including elasticsearch (which version to support)
